@@ -1,0 +1,19 @@
+{
+  "name": "dbhiking",
+  "version": "1.0.0",
+  "description": "DB hiking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "db"
+  ],
+  "author": "Javier Fernandez",
+  "license": "ISC",
+  "dependencies": {
+    "@mapbox/polyline": "^0.2.0",
+    "jsonfile": "^4.0.0",
+    "polyline": "^0.2.0"
+  }
+}
